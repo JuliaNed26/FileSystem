@@ -1,6 +1,6 @@
 ﻿namespace Practick
 {
-    partial class Form1
+    partial class FiieSystemForm
     {
         /// <summary>
         /// Требуется переменная конструктора.
