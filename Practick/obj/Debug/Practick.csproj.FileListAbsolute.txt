@@ -1,0 +1,9 @@
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\bin\Debug\Practick.exe.config
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\bin\Debug\Practick.exe
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\bin\Debug\Practick.pdb
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\obj\Debug\Practick.csprojResolveAssemblyReference.cache
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\obj\Debug\Practick.Form1.resources
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\obj\Debug\Practick.Properties.Resources.resources
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\obj\Debug\Practick.csproj.GenerateResource.Cache
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\obj\Debug\Practick.exe
+C:\Users\nedav\OneDrive\Документы\Visual Studio 2013\Projects\Practick\Practick\obj\Debug\Practick.pdb
